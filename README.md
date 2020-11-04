@@ -36,7 +36,7 @@
 
 ### 📕 Latest projects
 
-- (WRKFLO)[https://wrkflo.xyz] · A collection of tested, vetted & recommended workflows for [Alfred](https://www.alfredapp.com/)
+- [WRKFLO](https://wrkflo.xyz) · A collection of tested, vetted & recommended workflows for [Alfred](https://www.alfredapp.com/)
 
 ---
 
