@@ -6,10 +6,8 @@
 
 ## I'm a Maker, Developer, Automation and No-Code enthusiast!
 
-- 🔭 I recently launched [wrkflo.xyz](wrkflo.xyz)
 - 🌱 I’m currently learning all I can about IaaC
-- 👯 I’m looking to collaborate with other makers/devs on Automation and No-Code projects
-- 🥅 2020 Goal: Contribute more to Open Source projects
+- 🥅 2021 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I was 6 y.o. when I wrote my 1st code
 
 ### Connect with me:
@@ -36,14 +34,7 @@
 
 <br>
 
-### 📕 Latest projects
-
-- [WRKFLO](https://wrkflo.xyz) · A collection of tested, vetted & recommended workflows for [Alfred](https://www.alfredapp.com/)
-
----
-
 [website]: https://serotiuk.com
-[projects]: https://serotiuk.com/projects
 [twitter]: https://twitter.com/MateuszSerotiuk
 [instagram]: https://instagram.com/mserotiuk
 [linkedin]: https://linkedin.com/in/serotiuk
